@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
+title: Charlotte Alejandra Guajardo M.
+bio: "Astrophysicist"
 description: "Moonrise is a fresh take on the classic Moon"
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/moonrise-background.jpg"
+logo: "assets/img/academic_picture.jpeg"
+background: "assets/img/background.png"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://charlotteguajardo.github.io
 
 # Jekyll
 permalink: /:title/
@@ -36,20 +36,20 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: charlotte.guajardo@ug.uchile.cl
+#twitter: username
+#facebook: username
+github-url: charlotteguajardo
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: charlotte-guajardo
 #xing: username
-instagram: username
-#lastfm: username
+instagram: charlie.s_atelier
+lastfm: Swetyene
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: 76561198147825159
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
