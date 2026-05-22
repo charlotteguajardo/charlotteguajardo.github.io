@@ -36,17 +36,21 @@ layout: compress
                     </h3>
                     {% include social-links.html %}
                     <hr class="hr-line">
-                    <h3 class="title nav-buttons">
-                        <a class="btn zoombtn" href="{{ site.url }}/about">
+                    <div class="nav-buttons" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+                        <a class="btn zoombtn" href="{{ site.url }}/about" style="margin: 0; width: 100%; box-sizing: border-box;">
                             About
                         </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/posts">
+                        <a class="btn zoombtn" href="{{ site.url }}/posts" style="margin: 0; width: 100%; box-sizing: border-box;">
                             Posts
                         </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/projects">
+                        <a class="btn zoombtn" href="{{ site.url }}/projects" style="margin: 0; width: 100%; box-sizing: border-box;">
                             Projects
                         </a>
-                    </h3>
+                        <!-- Add new links here -->
+                        <a class="btn zoombtn" href="{{ site.url }}/new-page" style="margin: 0; width: 100%; box-sizing: border-box;">
+                            New Page
+                        </a>
+                    </div>
                 </div>
 
                 <!-- Second Column -->
@@ -67,7 +71,7 @@ layout: compress
                     <div class="home-section">
                         <h3 style="font-weight:350;">Latest News</h3>
                         <ul style="font-weight:300;">
-                            <li><strong>Apr 2026:</strong> Joined the "Cosmología en Chile" webpage's admin team.</li>
+                            <li><strong>Apr 2026:</strong> Joined the <a href="https://sites.google.com/view/cosmology-in-chile"><b>Cosmología en Chile</b></a> webpage's admin team.</li>
                             <li><strong>Jan 2026:</strong> Helped to organize Machine Leaning course for cosmology.</li>
                             <li><strong>OCT 2025:</strong> Presented poster at SOCHIAS XX.</li>
                         </ul>
