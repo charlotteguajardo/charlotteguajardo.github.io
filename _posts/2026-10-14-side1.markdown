@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Model selection with neural networks"
+project: true
+---
+
+texttexttexttexttext

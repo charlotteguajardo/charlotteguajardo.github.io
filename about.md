@@ -13,21 +13,18 @@ comments: false
 
 Hi! I am Charlotte. I am from Santiago, Chile, and I've lived here my entire life. I'm a final year Master's student in Physics at Universidad de Chile, and got my undergraduate degree in Astrophysics at Universidad Federico Santa María. My academic interests lies on late-time cosmology, dark energy, and beyond standard model physics, but I also am very fascinated with computers and systems in general.
 
+I consider myself a very creative and spontaneous person, with a lot of different interests :)
 
 ## Interests
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+-   Physics and science.
+-   Crocheting.
+-   Music, arts, and literature.
+-   Linux customization (I use arch btw).
+-   Crafts, fashion. stationery, lettering, and design in general.
 
-## Preview
+
+<!-- ## Preview
 
 {% capture images %}
 https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -41,4 +38,4 @@ See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on Git
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
 
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn} -->
