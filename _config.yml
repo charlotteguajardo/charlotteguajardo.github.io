@@ -29,10 +29,10 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
 # plus: username
 #analytics:
-#verify:
+  verify: 4luj9Dl4GsEo9TjDR4fUETgWWvSomxJpkLqOG8PhaX8
 #ad-client:
 #ad-slot:
 #bing-verify:
